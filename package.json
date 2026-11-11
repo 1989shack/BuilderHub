@@ -1,0 +1,13 @@
+﻿{
+  "name": "@1989shack/builderhub",
+  "version": "1.0.0",
+  "description": "Global Architecture Infrastructure Hosting Platform - 1989shack.com is the backyard for all incoming domains",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "engines": {
+    "node": "26.12.0"
+  },
+  "author": "Martin M. Shariff - Global Village Network G.V.N."
+}
